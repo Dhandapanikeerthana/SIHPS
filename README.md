@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:27-11-2024
+## Register Number:24900211
+## Name:D.KEERTHANA
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -18,36 +18,54 @@ Government of Gujarat
       Job opportunities matching their skills.
       Learning resources like certifications or Courses.
       Mentors from the alumni network who can guide based on their industry.
+
+      
 2.Smart Mentorship Program:
    Match alumni with:
       Current students for mentoring (based on skills,industry,location).
       Other alumni for Collaboration or guidance.
       Include a Chatbot for mentoring queries or to schedule mentoring sessions.
+
+      
 3.Event Gamification:
       Introduce badges and leadboards for alumni participation in events,donations,and mentoring programs.
       Reward top contributors with exclusive perks,like VIP event access or recognition on the platform.
+
+      
 4.Blockchain-Based Donation Tracking:
       Use blockchain to ensure transparency and trust in donation processes.
       Alumni can track how their contributions are utilized(e.g,project updates,scholarship).
+
+      
 5.Alumni Start-Up Support Hub:
    A section dedicated to alumni entrepreneurs:
       Showcase their startups.
       Connect them with investors or collaborators from the alumni network.
       Provide a space to advertise job openings exclusive to alumni.
+
+      
 6.Interactive Success Map:
       A world map showcasing where alumni are currently located,highlighting their achievements.
       Users can click on regions to see notable alumni,their stories,and industries.
+
+      
 7.AI-Powered Engagement Analytics:
       The most engaging types of events.
+
+      
 8.Customizable Alumni Profiles:
       Embed personal blogs,portfolio links,or recent publications.
       Highlight professional achievements,patents,or projects.
+
+      
 9.Live Forums and Webinars:
       Provide real-time chatrooms or webinars on topics like:
              Career advice.
              Industry trends.
              Mental health and well-being.
              Alumni can join as speakers or participants.
+
+             
 10.Dynamic Scholarships and Awards:
       Alumni can create custom scholarships or awards for students.
       Feature tools to help them select criteria,funding amount,and recipients.
@@ -55,12 +73,24 @@ Government of Gujarat
 
 ## Proposed Solution / Architecture Diagram
 
-
+    
 ## Use Cases
+![web 2](https://github.com/user-attachments/assets/20f911bd-6427-4b29-a131-69d478cd0b6d)
 
 
 ## Technology Stack
 
+React.js, Angular.
+
+Flutter for cross-platform use.
+
+Django (Python) or Node.js.
+
+TensorFlow, OpenAI API.
+
+Ethereum for donation tracking
 
 ## Dependencies
-
+Data collection - 5 days
+Mapping service- 5 days
+Budjet- 25,000
