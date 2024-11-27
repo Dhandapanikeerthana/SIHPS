@@ -72,6 +72,7 @@ Government of Gujarat
 
 
 ## Proposed Solution / Architecture Diagram
+![web](https://github.com/user-attachments/assets/808ffaa4-dc49-4307-8d3d-c2ee32e02259)
 
     
 ## Use Cases
@@ -92,5 +93,9 @@ Ethereum for donation tracking
 
 ## Dependencies
 Data collection - 5 days
+
+
 Mapping service- 5 days
+
+
 Budjet- 25,000
